@@ -2,35 +2,30 @@ name: TechCrunch Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour at minute 0
-  workflow_dispatch:      # allows manual run
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:      # manual run option
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repo
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 lxml
 
-      # Step 4: Run your scraper
       - name: Run scraper
         run: |
           python tech_scraper.py
 
-      # Step 5: Commit & push updates
       - name: Commit and push updates
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
