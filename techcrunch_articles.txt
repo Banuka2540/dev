@@ -1,0 +1,224 @@
+================================================================================
+Title: Monzo board reportedly pushed out CEO Anil over IPO timing
+Author: Unknown Author
+Date: 7:06 PM PST · December 16, 2025
+Link: https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/
+
+Monzo chief executive TS Anil was asked to step down by the fintech’s board amid concerns over international expansion and his post-IPO commitment, according to reporting from the Financial Times.
+
+The FT reports that tensions built between Anil and the board before October’s somewhatunexpected announcementthat former Google executive Diana Layfield would take over early next year. A key issue, apparently, was IPO timing. Anil pushed for an earlier listing than some directors wanted and signaled he might leave soon after, while board members sought more time to expand internationally and grow the company’s valuation. (Monzo was reportedly valued at $5.9 billion in an October 2024 secondary share sale backed by Singapore’s sovereign wealth fund GIC and StepStone Group.)
+
+TechCrunch sat down with Anil in person this summer, and we discussed the possibility of Monzo going public in 2026, a timeline that now appears to have been at the center of boardroom disagreements.
+
+Under Anil’s leadership since 2020, Monzo reportedly tripled its customer base to 13 million and posted record £60.5 million pre-tax profits. But nearly all customers remain UK-based after the company’s U.S. expansion stalled in 2021. We talked with Anil about this, too, during our sit-down.
+
+Now Layfield, who spent nine years at Google and more than a decade at Standard Chartered (of which Anil is also an alum), will oversee Monzo’s international strategy and guide it toward its eventual public listing.
+
+Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+
+TechCrunch Mobility is your destination for transportation news and insight.
+
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+
+Provides movers and shakers with the info they need to start their day.
+
+By submitting your email, you agree to ourTermsandPrivacy Notice.
+
+================================================================================
+Title: Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules
+Author: Unknown Author
+Date: 5:14 PM PST · December 16, 2025
+Link: https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/
+
+An administrative law judgehas ruledthat Tesla engaged in deceptive marketing that gave customers a false impression of the capabilities of its Autopilot and Full Self-Driving driver assistance software, a pivotal development in a years-long case initiated by California’s Department of Motor Vehicles.
+
+The judge agreed withthe state DMV’s requestto suspend Tesla sales for 30 days as a penalty for its actions, but the DMV stayed the order and is giving Tesla 60 days to modify or remove any deceptive language before implementing the suspension,accordingtomultipleoutlets. The judge also recommended suspending Tesla’s manufacturing license for 30 days, but the DMV stayed that order, too, according toBloomberg News.
+
+“The DMV’s decision today confirms that the department will hold every vehicle manufacturer to the highest safety standards to keep California’s drivers, passengers and pedestrians protected,” DMV director Steve Gordon said in a statement. “Tesla can take simple steps to pause this decision and permanently resolve this issue — steps autonomous vehicle companies and other automakers have been able to achieve in California’s nation-leading and supportive innovation marketplace.”
+
+Tesla said in aposton X that: “Sales in California will continue uninterrupted.”
+
+“This was a ‘consumer protection’ order about the use of the term ‘Autopilot’ in a case where not one single customer came forward to say there’s a problem,” the company wrote.
+
+After the 60-day window, Tesla can appeal the decision and should Tesla comply, the suspensions will be dropped. But it’s not immediately clear what steps the DMV wants Tesla to take, beyond telling the company to “take action regarding its use of the term ‘autopilot.’” The DMV did not immediately respond to a request for clarification, or to a request regarding Tesla’s apparent plan to ignore the decision.
+
+Tesla has faced multiple investigations from theCalifornia Attorney General, theDepartment of Justice, and the Securities and Exchange Commission over similar allegations that its marketing around partial autonomy systems was misleading. The company has also faced (and now settled) a number of personal civil lawsuits over crashes involving its Autopilot technology.
+
+The case brought by the CA DMV has been winding through the state’s Office of Administrative Hearings for years. The agency essentially accused Tesla of making customers believe that its advanced driver assistance systems were capable of high levels of autonomy. This led to overconfidence in the systems, the DMV alleged, which has contributed to dozens of crashes and multiple deaths. Tesla refuted these claims by saying its marketing was protected speech.
+
+A shutdown of sales in California, even temporary, could have a major impact on Tesla’s business as it remains the company’s largest market in the United States. A manufacturing suspension could also hurt Tesla’s business. While the company has constructed a massive factory in Austin, Texas (and moved its official headquarters to the same location), it still relies on its Fremont, California factory to make hundreds of thousands of vehicles, including all North American-bound Model 3 sedans.
+
+The judge’s decision comes at a moment when Tesla is advancing its Robotaxi service test in Austin. Over the weekend,the company removed the safety monitorsfrom its small fleet in the city. It had been offering rides to customers in the city for the last six months, but with a safety monitor either in the driver’s or passenger’s seat. Those vehicles are running a different version of Tesla’s driving software than what the automaker’s customers have in their cars, CEO Elon Musk has said.
+
+This story has been updated to include information from the DMV’s press releaseand Tesla’s response.
+
+Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.
+
+You can contact or verify outreach from Sean by emailingsean.okane@techcrunch.comor via encrypted message at okane.01 on Signal.
+
+Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+
+DoorDash driver faces felony charges after allegedly spraying customers’ food
+
+With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen
+
+Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2
+
+Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement
+
+OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo
+
+Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs
+
+================================================================================
+Title: How Luminar’s doomed Volvo deal helped drag the company into bankruptcy
+Author: Unknown Author
+Date: 2:43 PM PST · December 16, 2025
+Link: https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/
+
+In early 2023, Luminar was riding high. After going public during the pandemic and scoring a key deal with Volvo, the company had added Mercedes-Benz and Polestar as customers of its “lifesaving” lidar sensors. Founder and CEO Austin Russellcalled itan “inflection point,” as Luminar prepped to have those sensors integrated into the first production vehicles.
+
+Volvo in particular was all in on the technology. The Swedish automaker, which spent decades building a brand around the idea of making the safest cars, was the first to jump at integrating the laser-based sensors in its vehicles. Volvo initially tapped Luminar to provide 39,500 lidar sensors over the life of a deal signed in 2020. In 2021, Volvo upped that to 673,000. And in 2022, Volvo upped it again, this time to 1.1 million sensors.
+
+Three years later, Luminar isnow in bankruptcy. The company has alreadymade a dealto sell off one subsidiary centered around semiconductors and is looking to sell its lidar business during the Chapter 11 process, which began on Monday.
+
+The first batch of filings in the bankruptcy case shed new light on how Luminar’s cornerstone deal with Volvo came apart — and how its undoing helped push the once-promising startup over the edge.
+
+Luminar made “substantial up-front investments in equipment, facilities, and workforce” to meet the demand from Volvo back in 2022, according to adeclarationwritten by Luminar’s newly hired chief restructuring officer Robin Chiu. It built outa manufacturing facility in Monterrey, Mexico, and spent nearly $200 million to prepare to make its Iris lidar sensors for Volvo’s EX90 SUV.
+
+“Volvo was going to be a marquee customer, the stepping stone to introducing the company’s Iris product to the broader automotive industry,” one of Luminar’s lawyers said during the first hearing in the bankruptcy case on Tuesday.
+
+But, according to Chiu, problems were already brewing with Volvo. The automaker delayed the EX90 SUV because it needed to do more “software testing and development,” theautomaker said in 2023. And in early 2024, Luminar says Volvo reduced its expected volume for Iris sensors by 75%.
+
+Luminar’s other deals started to sour, too. Polestar (a subsidiary of Volvo) quietly gave up on integrating Luminar’s lidar sensors “because the vehicle’s software ultimately could not use” the features, according to Chiu. Mercedes-Benz terminated its agreement to buy Luminar’s Iris sensors in November 2024 because the lidar-maker “failed to meet ambitious requirements,” according to Chiu.
+
+(Mercedes-Benz struck up a new deal with Luminar in March 2025 for its next-generation Halo lidar, but Chiu wrote that Luminar has “no go-forward projects” with the German automaker at the time of bankruptcy.)
+
+This left Luminar with Volvo as its lone flagship customer.
+
+The company never diversified much beyond the automotive industry, shunning other applications like defense or robotics. In fact, Russell had founded Luminar in 2012 with the goal of taking lidar out of those sectors and into automotive to help accelerate the adoption of autonomous vehicles.
+
+It wasn’t until March of this year that Russell talked about expanding beyond automotive, as Luminar signeda deal with construction equipment company Caterpillar. Just two months later, Russellabruptly resignedfollowing an ethics inquiry from Luminar’s board of directors.
+
+By Chiu’s account, Volvo kept promising that it would meet the lifetime order of 1.1 million units despite the reduced volume in 2024. So Luminar kept pressing forward under that assumption.
+
+But signs of stress were showing. Luminar laid off 20% of its workforce in May 2024 and outsourced more of its lidar sensor manufacturing. Itdeepened those cutsand restructured some of its business in September 2024. Another round of layoffs came in May 2025after Russell resigned.
+
+In September, “Volvo delivered more bad news,” Chiu wrote. The automaker decided to offer lidar as an option on the EX90 going forward, instead of making it a standard feature as originally planned. Volvo also told Luminar that it was shelving lidar on future vehicles “as a cost-cutting measure.”
+
+“This change reduced Volvo’s estimated lifetime volumes by approximately 90%,” Chiu wrote.
+
+Luminar told Volvo on October 3 that it considered this a breach of the agreement the companies had first signed in 2020. On October 31, the dispute became public, as Luminar told shareholders in a regulatory filing that it was suspending sensor shipments to Volvo. The Swedish automaker sent Luminar a letter two weeks later, terminating the agreement.
+
+Volvo told TechCrunch in a statement Tuesday that it “made this decision to limit the company’s supply chain risk exposure and it is a direct result of Luminar’s failure to meet its contractual obligations to Volvo Cars.”
+
+“The company’s products can deliver a high level of safety and driver support, enabled by the cars’ powerful core computing coupled with their advanced sensor set — with or without a lidar,” a Volvo spokesperson said.
+
+Luminar, meanwhile, started selling lidar sensors meant for Volvo “to adjacent markets in an effort to recover its sunk costs,” according to Chiu’s filing, but it was too little too late.
+
+“As its relationship with Volvo deteriorated, [Luminar] worked tirelessly to identify new customers, but was ultimately unable to enter into production with any new customers in a timely fashion,” Chiu wrote. “The public Volvo dispute also resulted in a decline in sales due to broader market concerns over Luminar’s financial future.”
+
+Now the future of what’s left of Luminar is in the hands of its creditors and the court. It’s seeking the judge’s approval to sell the semiconductor subsidiary to Quantum Computing, Inc.for $110 million, and hopes to court a number of bidders for the lidar business.
+
+Luminar has already had significant interest in the lidar business, according to the filing. In January, Chiu wrote, the company hired investment bank Jefferies to evaluate a sale after receiving an “unsolicited acquisition proposal.” Luminar received “additional unsolicited inbound expressions of interest to acquire the Company” through the summer and fall — including one submitted by Russell through his new AI lab in October.
+
+As TechCrunch reported Monday, Russellplans to keep biddingon Luminar’s remains as the bankruptcy case moves forward. During Tuesday’s hearing, a lawyer for Luminar said it is “deep into the sale process” and “in negotiations with” several potential bidders.
+
+This story has been updated with a statement from Volvo and information from Luminar’s first bankruptcy hearing.
+
+Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.
+
+You can contact or verify outreach from Sean by emailingsean.okane@techcrunch.comor via encrypted message at okane.01 on Signal.
+
+Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+
+DoorDash driver faces felony charges after allegedly spraying customers’ food
+
+With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen
+
+Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2
+
+Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement
+
+OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo
+
+Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs
+
+================================================================================
+Title: WikiFlix shows us what Netflix would have been like 100 years ago
+Author: Unknown Author
+Date: 1:58 PM PST · December 16, 2025
+Link: https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/
+
+It’s nice to remember that not everything on the internet needs to be a subscription-based platform with ads. OnWikiFlix, a Netflix-inspired archive of public domain films, you can watch movies like “It’s a Wonderful Life” and “Nosferatu” for free. You don’t even have to make an account! Crazy, right?
+
+A project of Wikipedia’s volunteer community, WikiFlix hosts over 4,000 movies from Wikimedia Commons, the Internet Archive, or YouTube that have fallen into the public domain — that means they are free to share and distribute, usually because the copyright lapsed, or there was never any copyright at all. So, yes, most of the movies on the WikiFlix homepage are your grandma’s age, but isn’t it kind of fun to imagine what Netflix would’ve been like back in the day?
+
+WikiFlix isn’t new, but it’s new to us, courtesy of aTikTokby Annie Rauwerda, the creator behind the “Depths of Wikipedia” accounts.
+
+Your favorite website should be wikiflix.toolforge.org !!!!!!
+
+While WikiFlix can introduce you to historic films like “Wings,” the first movie to win the Academy Award for Best Picture, there’s also a bunch of hidden gems on there. As Rauwerda says in her TikTok, “Sometimes I really like watching things that I know nobody else is watching, because what if I discover something crazy?”
+
+On its homepage, WikiFlix prioritizes movies that have a lot of sitelinks on their Wikipedia pages, since those are more likely to be popular or interesting. But there is some degree of curation. The community around WikiFlix maintains a blacklist, which helps ensure that you’re not going to run into a historical Nazi propaganda film during your next “WikiFlix and chill” night. (“While these [films] are perfectly fine in an educational context, WikiFlix is more focused on entertainment,” aWikiFlix pagesays.)
+
+WikiFlix content may not exactly be as binge-worthy as “Stranger Things,” but give it a try. Why not watch aSoviet musicalinspired by Cinderella, asilent filmabout swashbuckling pirates, or aJapanese post-apocalyptic filmthat featuresa guywho somehow played for both the Boston Celticsandthe Chicago Cubs? You can always catch up on “Love Is Blind” another time.
+
+Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.
+
+You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
+
+Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+
+DoorDash driver faces felony charges after allegedly spraying customers’ food
+
+With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen
+
+Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2
+
+Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement
+
+OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo
+
+Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs
+
+================================================================================
+Title: X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge
+Author: Unknown Author
+Date: 1:11 PM PST · December 16, 2025
+Link: https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/
+
+Elon Musk’s X is updating its Terms of Service to indicate it still lays claim to the “Twitter” trademark. The move to add this detail to the company’s terms follows anannouncementfrom a Virginia-based startup, which recently filed an application to trademark the term “Twitter.”
+
+The startup, Operation Bluebird, claims that X had abandoned the brand “Twitter” by renaming its social networking service “X.” In its petition to the U.S. Patent and Trademark Office filed on December 2, the startup pointed to a post from X owner Musk on July 23, 2023, which proclaimed that the social network would soon “bid adieu to the twitter brand.”
+
+X is now challenging that claim with acountersuitof its own. (A copy of the filing was shared with TechCrunch via IP trademark law firmGerben IP; it’s not yet showing in PACER as of the time of publication.) In the filing, X says that it continues to exclusively own the Twitter and Tweet trademarks and the bluebird logo.
+
+Since filing itspetitionfor cancellation, Operation Bluebird has been collecting potential user sign-ups for its own social network at a website named Twitter.new. Theeffort is headed upby two lawyers, including founderMichael Peroff,based in Illinois, andStephen Coates, previously a trademark lawyer at Twitter. Given their backgrounds, their assertion that they plan to launch a new service to rival X seems dubious. It’s more likely they want to acquire the trademark, which has value of its own.
+
+Nevertheless, X isn’t taking its chances. Its revisedTerms of Service, effective as of January 15, 2026, states:
+
+Nothing in the Terms gives you a right to use the X name or Twitter name or any of the X or Twitter trademarks, logos, domain names, other distinctive brand features, and other proprietary rights, and you may not do so without our express written consent.
+
+Previously, the terms only referenced X in this section. There was no mention of Twitter.
+
+The terms additionally include other, more minor updates, including mentions related to EU laws and generated content. X’s Privacy Policy was also updated with a couple of references to age assurance technology.
+
+This article was updated with a link to the countersuit following its initial publication.
+
+Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+
+DoorDash driver faces felony charges after allegedly spraying customers’ food
+
+With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen
+
+Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2
+
+Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement
+
+OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo
+
+Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs
+
